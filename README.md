@@ -2,6 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Primeiro Projeto do Heslei
 
+<div align="center">
+    <img alt="Logo" title="#logo" width="200px" src="./src/logo.svg">
+</div>
+
 ## Available Scripts
 
 In the project directory, you can run:
